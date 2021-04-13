@@ -1,0 +1,7 @@
+tambahkan informasi nama lengkap dan url sesuai format dan contoh
+
+format :
+[nama lengkap] [url]
+contoh :
+
+Eka Nur Ahmad Romadhoni https://ekanur.github.io/
