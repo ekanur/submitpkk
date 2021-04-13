@@ -1,4 +1,4 @@
-# submitpkk
+# :writing_hand: submitpkk
 Repository ini digunakan untuk submit url github pages. Silakan tambahkan informasi nama lengkap dan url github pages pada file submit.txt
 ##Step by Step untuk submit.
 1. Fork Repository
